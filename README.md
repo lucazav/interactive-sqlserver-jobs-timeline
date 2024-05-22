@@ -2,7 +2,7 @@
 
 This repository contains scripts and resources to help you optimize the scheduling of jobs on SQL Server instances, both on-premises and in Azure SQL Managed Instances. The key feature of this repository is a stored procedure that utilizes the R External Language to generate an HTML file with an interactive timeline of jobs executed. This tool provides a clear and intuitive visualization of job distribution, making it easier to analyze and reorganize the server workload for improved performance and efficiency.
 
-An article detailing all the features of the stored procedure is available [here](https://example.com/your-article).
+An article detailing all the features of the stored procedure is available on_ Towards Data Science_ [here]([https://example.com/your-article](https://towardsdatascience.com/visualizing-sql-server-job-history-unlocking-hidden-capabilities-with-sql-server-language-63ed965b091e).
 
 ## Features
 
